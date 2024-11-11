@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Revolutionary User Interfaces</title>
-    <meta name="description" content="The human computer interface helps to define computing at any one time.">
+    <title>Simón Templao y Todo Curtido</title>
+    <meta name="description" content="Los Muñetones">
     <meta charset="utf-8">
     <meta name="viewport" content="initial-scale=1, width=device-width">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -26,6 +26,7 @@
       }
       .timeline-embed img {
         max-width: 100%;
+        max-height: 80vh;
         height: auto;
         display: block;
         margin: 0 auto;
@@ -50,21 +51,18 @@
           href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
     <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
     <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        var embed = document.getElementById('timeline-embed');
-        embed.style.height = window.innerHeight + 'px';
+      window.addEventListener('load', function() {
+        let embed = document.getElementById('timeline-embed');
         window.timeline = new TL.Timeline('timeline-embed', 'timeline.json', {
           hash_bookmark: false
         });
 
-        // Forzar actualización de la visualización después de un pequeño retraso
         setTimeout(function() {
-          timeline.updateDisplay();
+          window.timeline.updateDisplay();
         }, 500);
 
         window.addEventListener('resize', function() {
-          embed.style.height = window.innerHeight + 'px';
-          timeline.updateDisplay();
+          window.timeline.updateDisplay();
         });
       });
     </script>
