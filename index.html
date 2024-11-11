@@ -57,6 +57,11 @@
           hash_bookmark: false
         });
 
+        // Forzar actualización de la visualización después de un pequeño retraso
+        setTimeout(function() {
+          timeline.updateDisplay();
+        }, 500);
+
         window.addEventListener('resize', function() {
           embed.style.height = window.innerHeight + 'px';
           timeline.updateDisplay();
