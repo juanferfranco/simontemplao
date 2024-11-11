@@ -391,16 +391,19 @@
     "start_date": {
         "year": "1967"
     },
+    "end_date": {
+        "year": "1968"
+    },
     "text": {
         "headline": "Qué pelota",
-        "text": "Élkin (izq.) riéndose después de quitarle la pelota a Álvaro (der.) en la casa del barrio Loreto."
+        "text": "Élkin (izq.) riéndose después de quitarle la pelota a Álvaro (der.)."
     },
     "media": {
         "url": "assets/images/F25.jpg",
         "caption": "La crianza y la casa - 1967"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "Casa del barrio Loreto"
     },
     {
     "start_date": {
@@ -408,14 +411,14 @@
     },
     "text": {
         "headline": "Bien portado",
-        "text": "Héctor Mario Muñetones Flórez a sus 3 años en el Barrio Caribe, Medellín, cerca a lo que hoy (2024) es el Tránsito."
+        "text": "Héctor Mario Muñetones Flórez a sus 3 años"
     },
     "media": {
         "url": "assets/images/F26.jpg",
         "caption": "La crianza y la casa - 1965"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "Barrio Caribe, Medellín, cerca a lo que hoy (2024) es el Tránsito"
     },
     {
     "start_date": {
@@ -430,7 +433,7 @@
         "caption": "La crianza y la casa - 1963"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "_"
     },
     {
     "start_date": {
@@ -438,14 +441,14 @@
     },
     "text": {
         "headline": "Cabalgadura",
-        "text": "Héctor Mario Muñetones Flórez sobre Tarzán en las Mangas de Everfit, Medellín."
+        "text": "Héctor Mario Muñetones Flórez sobre Tarzán."
     },
     "media": {
         "url": "assets/images/F28.jpg",
         "caption": "La crianza y la casa - 1963"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "Mangas de Everfit, Medellín"
     },
     {
     "start_date": {
@@ -453,14 +456,14 @@
     },
     "text": {
         "headline": "La peluquiada",
-        "text": "Héctor en brazos de Simón y bravo al regreso de su primera motilada en el Pasaje Junín, Medellín."
+        "text": "Héctor en brazos de Simón y bravo al regreso de su primera motilada."
     },
     "media": {
         "url": "assets/images/F29.jpg",
         "caption": "La crianza y la casa - 1963"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "Pasaje Junín, Medellín"
     },
     {
     "start_date": {
@@ -475,7 +478,7 @@
         "caption": "La crianza y la casa - 1974"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "Finca de Blanca Flórez"
     },
     {
     "start_date": {
@@ -483,14 +486,14 @@
     },
     "text": {
         "headline": "La vida es bella",
-        "text": "Arriba y de izquierda a derecha: Patricia, Élkin y Álvaro. Abajo: Héctor y Mónica, en el solar de la casa de Etelvina (mamá de Josefina) en el Barrio 20 de Julio."
+        "text": "Arriba y de izquierda a derecha: Patricia, Élkin y Álvaro. Abajo: Héctor y Mónica."
     },
     "media": {
         "url": "assets/images/F31.jpg",
         "caption": "La crianza y la casa - 1973"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "Barrio 20 de Julio, en el solar de la casa de Etelvina (mamá de Josefina)"
     },
     {
     "start_date": {
@@ -502,10 +505,10 @@
     },
     "media": {
         "url": "assets/images/F32.jpg",
-        "caption": "La crianza y la casa - 1971"
+        "caption": "La crianza y la casa - 1971 (?)"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "Barrio 20 de Julio"
     },
     {
     "start_date": {
@@ -513,14 +516,14 @@
     },
     "text": {
         "headline": "Tres generaciones",
-        "text": "Tres generaciones de izquierda a derecha: Simón, Héctor y Manuelito en Cisneros, Antioquia."
+        "text": "Tres generaciones de izquierda a derecha: Simón, Héctor y Manuelito"
     },
     "media": {
         "url": "assets/images/F33.jpg",
         "caption": "La crianza y la casa - 1964"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "Cisneros, Antioquia"
     },
     {
     "start_date": {
@@ -529,14 +532,14 @@
     },
     "text": {
         "headline": "El niño Jesús",
-        "text": "Álvaro Muñetones Flórez de 8 meses. Foto tomada por Josefina. Un párroco pedía prestado a Álvaro para modelar como Niño Jesús, pero Josefina siempre se negó."
+        "text": "Álvaro Muñetones Flórez de 8 meses. Tercer hijo, último hijo hombre. Foto tomada por Josefina. Cuenta Josefina que un párroco de una iglesia le pedía prestado al niño (a Álvaro) para que modelara como Niño Jesús.  Hasta donde se sabe, ella siempre se negó."
     },
     "media": {
         "url": "assets/images/F34.jpg",
         "caption": "La crianza y la casa - 1966"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "_"
     },
     {
     "start_date": {
@@ -544,14 +547,14 @@
     },
     "text": {
         "headline": "Adolescente",
-        "text": "Héctor a sus 14 años en la finca de Blanca Flórez. La finca fue vendida y hoy es un depósito de maderas."
+        "text": "Hector a sus 14 años. Cuando Blanca murió, los hijos, sobre todo Huberto (allá son tres mujeres y un hombre) vendieron la finca y se repartieron la plata. Hoy (2024), el lugar es un depósito de maderas."
     },
     "media": {
         "url": "assets/images/F35.jpg",
         "caption": "La crianza y la casa - 1976"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "Finca de Blanca Flórez"
     },
     {
     "start_date": {
@@ -559,14 +562,14 @@
     },
     "text": {
         "headline": "Blanco y negro",
-        "text": "Primera Comunión de Patricia Muñetones en la finca de Blanca Flórez."
+        "text": "Primera Comunión de Patricia Muñetones (de blanco)."
     },
     "media": {
         "url": "assets/images/F36.jpg",
         "caption": "La crianza y la casa - 1974"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "Finca de Blanca Flórez"
     },
     {
     "start_date": {
@@ -574,14 +577,14 @@
     },
     "text": {
         "headline": "Primogénito",
-        "text": "Héctor Mario Muñetones Flórez en la Casa de Aranjuez. Cuando Simón y Josefina se casaron, se mudaron a Aranjuez y luego al barrio Caribe."
+        "text": "Hector Mario Muñetones Flórez. Cuando Simón y Josefina se casaron en octubre de 1961 se fueron a vivir a Aranjuez. Cuando Héctor tuvo un año y medio o dos, es decir, a finales de 1963 o a principios de 1964, se fueron a vivir al barrio Caribe."
     },
     "media": {
         "url": "assets/images/F37.jpg",
         "caption": "La crianza y la casa - 1962"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "Casa de Aranjuez"
     },
     {
     "start_date": {
@@ -589,14 +592,14 @@
     },
     "text": {
         "headline": "Qué biblia",
-        "text": "Nilda con Rosarito (su madre). La niña en brazos es Paula, hija de Dolly, hermana de Simón Antonio."
+        "text": "Nilda con Rosarito su mamá (dicen que Rosarito leyó 3 o 4 veces la biblia). La niña en brazos es Paula, hija de Dolly, hermana de Simón Antonio."
     },
     "media": {
         "url": "assets/images/F38.jpg",
         "caption": "Los nietos y la enfermedad - 1989"
     },
     "group": "Los nietos y la enfermedad",
-    "display_date": "La finca de Anorí"
+    "display_date": "_"
     },
     {
     "start_date": {
@@ -604,14 +607,14 @@
     },
     "text": {
         "headline": "Primer round",
-        "text": "Día de la Madre en el Barrio 20 de Julio. Adelante Josefina y Simón, con hijos y nietos en la segunda y tercera fila. Después de la primera cirugía de Simón Antonio."
+        "text": "Día de la Madre. Adelante Josefina (izq.) y Simón (der.). En segunda fila Élkin (izq.), Héctor (centro) y Álvaro (der.), y atrás Patricia (izq.) y Mónica (der.). Después de la primera cirugía de Simón Antonio como tratamiento de su cáncer."
     },
     "media": {
         "url": "assets/images/F39.jpg",
         "caption": "Los nietos y la enfermedad - 1994"
     },
     "group": "Los nietos y la enfermedad",
-    "display_date": "La finca de Anorí"
+    "display_date": "Barrio 20 de Julio"
     },
     {
     "start_date": {
@@ -619,14 +622,14 @@
     },
     "text": {
         "headline": "Renault 12",
-        "text": "Renault 12 modelo 1978, propiedad de Héctor. En ese carro Simón Antonio fue por primera vez a Coveñas."
+        "text": "Renault 12 modelo 1978 propiedad de Héctor. Se lo compró a Bernardo, hermano de Simón, así: le entregó una moto DR 125 Suzuki y le dio una suma adicional de 2 millones de pesos. En ese carro Simón Antonio fue por primera vez a Coveñas. Estaban allí Héctor, Mónica, Simón Antonio, Josefina y Juan Carlos Martínez (amigo de Héctor)."
     },
     "media": {
         "url": "assets/images/F40.jpg",
         "caption": "Los nietos y la enfermedad - 1988"
     },
     "group": "Los nietos y la enfermedad",
-    "display_date": "La finca de Anorí"
+    "display_date": "camino a Cocorná"
     },
     {
     "start_date": {
@@ -634,14 +637,14 @@
     },
     "text": {
         "headline": "El laburo",
-        "text": "Leidy y Cristina en canastas de parva con Patricia y Simón en la bicicleta, en el Centro de Medellín."
+        "text": "Leidy (izq.) y Cristina (der.) dentro de las canastas de parva. Patricia y Simón (este maneja la bicicleta). Simón ya no guardaba la bicicleta en Guayabal, sino en el Centro. “Nos vemos por la Alpujarra y yo monto a las niñas en el carro mío”. Atrás, arriba y a la derecha, el Cerro Nutibara."
     },
     "media": {
         "url": "assets/images/F41.jpg",
         "caption": "Los nietos y la enfermedad - 1993"
     },
     "group": "Los nietos y la enfermedad",
-    "display_date": "La finca de Anorí"
+    "display_date": "Centro de Medellín"
     },
     {
     "start_date": {
@@ -649,14 +652,14 @@
     },
     "text": {
         "headline": "La primera nieta",
-        "text": "Simón y Josefina con su nieta Leidy en el Barrio 20 de Julio."
+        "text": "Simón y Josefina con su nieta Leidy."
     },
     "media": {
         "url": "assets/images/F42.jpg",
-        "caption": "Los nietos y la enfermedad - 1989"
+        "caption": "Los nietos y la enfermedad - 1989(?)"
     },
     "group": "Los nietos y la enfermedad",
-    "display_date": "La finca de Anorí"
+    "display_date": "Barrio 20 de Julio"
     },
     {
     "start_date": {
@@ -664,14 +667,14 @@
     },
     "text": {
         "headline": "Los brujitos",
-        "text": "Día de los Brujitos. Simón Antonio con sus nietos Simón David y Mateo, hijos de Álvaro, en la Casa del 20 de Julio."
+        "text": "Día de los Brujitos. A la izquierda Álvaro carga a sus hijos Simón y Mateo; en el centro, Simón Antonio carga a su nieta Cristina; a la derecha, Josefina carga a su nieta Leidy; y a la derecha y de pie, Patricia Muñetones. Los muebles y la baldosa: rojos, como si fuera un manifiesto liberal."
     },
     "media": {
         "url": "assets/images/F43.jpg",
         "caption": "Los nietos y la enfermedad - 1993"
     },
     "group": "Los nietos y la enfermedad",
-    "display_date": "La finca de Anorí"
+    "display_date": "Casa del 20 de Julio"
     },
     {
     "start_date": {
@@ -679,14 +682,14 @@
     },
     "text": {
         "headline": "Las nietas y la radio",
-        "text": "Simón con sus nietas Leidy y Cristina. La grabadora fue fiada por Álvaro en un almacén de Medellín."
+        "text": "Simón con sus nietas Leidy (izq.) y Cristina (der.). La grabadora fue fiada por Álvaro en un almacén de la Calle Colombia en Medellín; el butaco rojo sobre el que posa la grabadora se reconoce como “el de toda la vida”."
     },
     "media": {
         "url": "assets/images/F44.jpg",
         "caption": "Los nietos y la enfermedad - 1993"
     },
     "group": "Los nietos y la enfermedad",
-    "display_date": "La finca de Anorí"
+    "display_date": "Segundo piso de la casa del 20 de Julio, en la primera pieza"
     },
     {
     "start_date": {
@@ -694,14 +697,14 @@
     },
     "text": {
         "headline": "La herencia",
-        "text": "Álvaro con sus hijos Simón y Mateo, y una colección de emblemas taurinos y discos heredados de Simón."
+        "text": "Álvaro sostiene en sus brazos a sus hijos Simón (izq.) y Mateo (der.). Detrás de ellos, una colección de emblemas taurinos, que incluye algún cartel taurino y la fotografía del torero Pepe Cáceres. También la colección de discos LP y cassettes de Simón, heredada por Álvaro."
     },
     "media": {
         "url": "assets/images/F45.jpg",
         "caption": "Los nietos y la enfermedad - 1994"
     },
     "group": "Los nietos y la enfermedad",
-    "display_date": "La finca de Anorí"
+    "display_date": "Casa del 20 de Julio"
     },
     {
     "start_date": {
@@ -709,14 +712,14 @@
     },
     "text": {
         "headline": "Micky Mouse, un campesino y Simón",
-        "text": "Simón Antonio con sus nietos Simón David y Mateo en la Casa del 20 de Julio durante la celebración del Día de los Brujitos."
+        "text": "Simón Antonio, vestido de gris y con una franja ROJA en su camiseta, comparte con sus nietos Simón David y Mateo, hijos de Álvaro, la celebración del Día de los Brujitos."
     },
     "media": {
         "url": "assets/images/F46.jpg",
         "caption": "Los nietos y la enfermedad - 1993"
     },
     "group": "Los nietos y la enfermedad",
-    "display_date": "La finca de Anorí"
+    "display_date": "Casa del 20 de julio"
     }
     ]
 }
