@@ -13,8 +13,7 @@
     "events": [
     {
         "start_date": {
-            "year": "1945",
-            "month": "1"
+            "year": "1945"
         },
         "text": {
             "headline": "La familia de Chepa",
@@ -29,8 +28,7 @@
     },
     {
     "start_date": {
-        "year": "1938",
-        "month": "1"
+        "year": "1938"
     },
     "text": {
         "headline": "El pequeño Simón",
@@ -45,8 +43,7 @@
     },
     {
     "start_date": {
-        "year": "1945",
-        "month": "1"
+        "year": "1945"
     },
     "text": {
         "headline": "Los Muñetón (no los Muñetones)",
@@ -61,8 +58,7 @@
     },
     {
     "start_date": {
-        "year": "1953",
-        "month": "1"
+        "year": "1953"
     },
     "text": {
         "headline": "La jovialidad de Chepa",
@@ -73,12 +69,11 @@
         "caption": "Los años mozos - 1953"
     },
     "group": "Los años mozos",
-    "display_date": "La finca de Anorí"
+    "display_date": "Medellín"
     },
     {
     "start_date": {
-        "year": "1954",
-        "month": "1"
+        "year": "1954"
     },
     "text": {
         "headline": "En plena dictadura",
@@ -89,12 +84,14 @@
         "caption": "Los años mozos - 1954"
     },
     "group": "Los años mozos",
-    "display_date": "La finca de Anorí"
+    "display_date": "Medellín"
     },
     {
     "start_date": {
-        "year": "1950",
-        "month": "1"
+        "year": "1950"
+    },
+    "end_date": {
+        "year": "1953"
     },
     "text": {
         "headline": "El prometido en la guerra",
@@ -102,15 +99,14 @@
     },
     "media": {
         "url": "assets/images/F6.jpg",
-        "caption": "Los años mozos - 1950"
+        "caption": "Los años mozos - 1950-1953"
     },
     "group": "Los años mozos",
-    "display_date": "La finca de Anorí"
+    "display_date": "Corea"
     },
     {
     "start_date": {
-        "year": "1953",
-        "month": "1"
+        "year": "1953"
     },
     "text": {
         "headline": "Señorit.",
@@ -121,28 +117,28 @@
         "caption": "Los años mozos - 1953"
     },
     "group": "Los años mozos",
-    "display_date": "La finca de Anorí"
+    "display_date": "Junín, Medellín"
     },
     {
     "start_date": {
-        "year": "1950",
-        "month": "1"
+        "year": "1950"
     },
     "text": {
         "headline": "El buen mozo",
-        "text": "Carlos Arturo Paniagua Álvarez, exprometido de Josefina, quién en el relato, “le tenía miedo”. Participó en la Guerra de Corea."
+        "text": "Carlos Arturo Paniagua Álvarez, exprometido de Josefina, quién en el relato, “le tenía miedo”. Participó en la Guerra de Corea, a donde, por orden de Laureano Gómez, se enviaron más de 4.000 soldados para apoyar a Estados Unidos."
     },
     "media": {
         "url": "assets/images/F8.jpg",
         "caption": "Los años mozos - 1950"
     },
     "group": "Los años mozos",
-    "display_date": "La finca de Anorí"
+    "display_date": "_"
     },
     {
     "start_date": {
         "year": "1961",
-        "month": "10"
+        "month": "10",
+        "day": "26"
     },
     "text": {
         "headline": "La boda",
@@ -153,12 +149,13 @@
         "caption": "La boda - 1961"
     },
     "group": "La boda",
-    "display_date": "La finca de Anorí"
+    "display_date": "Medellín"
     },
     {
     "start_date": {
         "year": "1961",
-        "month": "10"
+        "month": "10",
+        "day": "26"
     },
     "text": {
         "headline": "Tórtolos en la boda",
@@ -169,12 +166,13 @@
         "caption": "La boda - 1961"
     },
     "group": "La boda",
-    "display_date": "La finca de Anorí"
+    "display_date": "Medellín"
     },
     {
     "start_date": {
         "year": "1961",
-        "month": "10"
+        "month": "10",
+        "day": "26"
     },
     "text": {
         "headline": "La boda y la familia",
@@ -185,12 +183,13 @@
         "caption": "La boda - 1961"
     },
     "group": "La boda",
-    "display_date": "La finca de Anorí"
+    "display_date": "Medellín"
     },
     {
     "start_date": {
         "year": "1961",
-        "month": "10"
+        "month": "10",
+        "day": "26"
     },
     "text": {
         "headline": "Matrona",
@@ -201,12 +200,13 @@
         "caption": "La boda - 1961"
     },
     "group": "La boda",
-    "display_date": "La finca de Anorí"
+    "display_date": "Medellín"
     },
     {
     "start_date": {
         "year": "1962",
         "month": "1"
+
     },
     "text": {
         "headline": "Al matadero",
@@ -217,12 +217,11 @@
         "caption": "La boda - 1962"
     },
     "group": "La boda",
-    "display_date": "La finca de Anorí"
+    "display_date": "Plaza de Toros La Macarena. Medellín"
     },
     {
     "start_date": {
-        "year": "1962",
-        "month": "1"
+        "year": "1962"
     },
     "text": {
         "headline": "Ennegrecida",
@@ -233,92 +232,89 @@
         "caption": "La boda - 1962"
     },
     "group": "La boda",
-    "display_date": "La finca de Anorí"
+    "display_date": "_"
     },
     {
     "start_date": {
-        "year": "1961",
-        "month": "1"
+        "year": "1961"
     },
     "text": {
         "headline": "Amistades",
-        "text": "Josefina y Simón están departiendo con amigos en la finca de Blanca Flórez en Rionegro, Antioquia."
+        "text": "Josefina y Simón están departiendo con amigos en la finca de Blanca Flórez."
     },
     "media": {
         "url": "assets/images/F15.jpg",
         "caption": "La boda - 1961"
     },
     "group": "La boda",
-    "display_date": "La finca de Anorí"
+    "display_date": "Rionegro, Antioquia"
     },
     {
     "start_date": {
-        "year": "1961",
-        "month": "1"
+        "year": "1961"
     },
     "text": {
         "headline": "En la manguita",
-        "text": "Josefina y Simón recién casados en el Corregimiento de San Félix, Bello."
+        "text": "Josefina y Simón recién casados."
     },
     "media": {
         "url": "assets/images/F16.jpg",
         "caption": "La boda - 1961"
     },
     "group": "La boda",
-    "display_date": "La finca de Anorí"
+    "display_date": "Corregimiento de San Félix, Bello"
     },
     {
     "start_date": {
-        "year": "1961",
-        "month": "1"
+        "year": "1961"
     },
     "text": {
         "headline": "En la yerbita",
-        "text": "Josefina y Simón están cerca de la finca de Blanca Flórez en Rionegro, Antioquia."
+        "text": "Josefina y Simón están cerca de la finca de Blanca Flórez."
     },
     "media": {
         "url": "assets/images/F17.jpg",
         "caption": "La boda - 1961"
     },
     "group": "La boda",
-    "display_date": "La finca de Anorí"
+    "display_date": "Rionegro, Antioquia"
     },
     {
     "start_date": {
-        "year": "1961",
-        "month": "1"
+        "year": "1961"
     },
     "text": {
         "headline": "Entre las enaguas",
-        "text": "Simón, Josefina y Leonilda en la Casa de Aranjuez, Medellín."
+        "text": "Simón, Josefina y Leonilda."
     },
     "media": {
         "url": "assets/images/F18.jpg",
         "caption": "La boda - 1961"
     },
     "group": "La boda",
-    "display_date": "La finca de Anorí"
+    "display_date": "Casa de Aranjuez, Medellín"
     },
     {
     "start_date": {
-        "year": "1961",
-        "month": "1"
+        "year": "1961"
     },
     "text": {
         "headline": "Viaje de miel",
-        "text": "Josefina y Simón están cerca de la finca de Blanca Flórez en Rionegro, Antioquia."
+        "text": "Josefina y Simón están cerca de la finca de Blanca Flórez."
     },
     "media": {
         "url": "assets/images/F19.jpg",
         "caption": "La boda - 1961"
     },
     "group": "La boda",
-    "display_date": "La finca de Anorí"
+    "display_date": "Rionegro, Antioquia"
     },
     {
     "start_date": {
         "year": "1961",
-        "month": "10"
+        "month": "10",
+        "day": "26"
+
     },
     "text": {
         "headline": "Seriote",
@@ -329,12 +325,11 @@
         "caption": "La boda - 1961"
     },
     "group": "La boda",
-    "display_date": "La finca de Anorí"
+    "display_date": "Medellín"
     },
     {
     "start_date": {
-        "year": "1970",
-        "month": "1"
+        "year": "1970"
     },
     "text": {
         "headline": "La juntura",
@@ -345,44 +340,41 @@
         "caption": "La crianza y la casa - 1970"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "Barrio 20 de Julio"
     },
     {
     "start_date": {
-        "year": "1966",
-        "month": "1"
+        "year": "1966"
     },
     "text": {
         "headline": "Guardianes",
-        "text": "Héctor (izq.), Élkin (der.) y Tarzán adelante en las Mangas de Everfit, donde hoy (2024) queda el Centro Comercial Florida."
+        "text": " Héctor (izq.), Élkin (der.) y Tarzán adelante. Para entonces los Muñetones vivían en el barrio Caribe."
     },
     "media": {
         "url": "assets/images/F22.jpg",
-        "caption": "La crianza y la casa - 1966"
+        "caption": "La crianza y la casa - 1966 (?)"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "Mangas de Everfit, donde hoy (2024) queda el Centro Comercial Florida"
     },
     {
     "start_date": {
-        "year": "1963",
-        "month": "1"
+        "year": "1963"
     },
     "text": {
         "headline": "Tras las huellas del Ferrocarril",
-        "text": "Manuel “Manuelito” Muñetón (atrás), Héctor Mario Muñetones Flórez (adelante), y Josefina entre uno y otro en la Plaza de Cisneros."
+        "text": "Manuel “Manuelito” Muñetón (atrás), Héctor Mario Muñetones Flórez (adelante), y Josefina entre uno y otro."
     },
     "media": {
         "url": "assets/images/F23.jpg",
         "caption": "La crianza y la casa - 1963"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "Plaza de Cisneros"
     },
     {
     "start_date": {
-        "year": "1971",
-        "month": "1"
+        "year": "1971"
     },
     "text": {
         "headline": "Las pulgas",
@@ -393,12 +385,11 @@
         "caption": "La crianza y la casa - 1971"
     },
     "group": "La crianza y la casa",
-    "display_date": "La finca de Anorí"
+    "display_date": "Casa del barrio 20 de Julio ya con algunos muros de concreto"
     },
     {
     "start_date": {
-        "year": "1967",
-        "month": "1"
+        "year": "1967"
     },
     "text": {
         "headline": "Qué pelota",
@@ -413,8 +404,7 @@
     },
     {
     "start_date": {
-        "year": "1965",
-        "month": "1"
+        "year": "1965"
     },
     "text": {
         "headline": "Bien portado",
@@ -429,8 +419,7 @@
     },
     {
     "start_date": {
-        "year": "1963",
-        "month": "1"
+        "year": "1963"
     },
     "text": {
         "headline": "La cresta y el triciclo",
@@ -445,8 +434,7 @@
     },
     {
     "start_date": {
-        "year": "1963",
-        "month": "1"
+        "year": "1963"
     },
     "text": {
         "headline": "Cabalgadura",
@@ -461,8 +449,7 @@
     },
     {
     "start_date": {
-        "year": "1963",
-        "month": "1"
+        "year": "1963"
     },
     "text": {
         "headline": "La peluquiada",
@@ -477,8 +464,7 @@
     },
     {
     "start_date": {
-        "year": "1974",
-        "month": "1"
+        "year": "1974"
     },
     "text": {
         "headline": "La santa comunión",
@@ -493,8 +479,7 @@
     },
     {
     "start_date": {
-        "year": "1973",
-        "month": "1"
+        "year": "1973"
     },
     "text": {
         "headline": "La vida es bella",
@@ -509,8 +494,7 @@
     },
     {
     "start_date": {
-        "year": "1971",
-        "month": "1"
+        "year": "1971"
     },
     "text": {
         "headline": "Mire el pajarito",
@@ -525,8 +509,7 @@
     },
     {
     "start_date": {
-        "year": "1964",
-        "month": "1"
+        "year": "1964"
     },
     "text": {
         "headline": "Tres generaciones",
@@ -557,8 +540,7 @@
     },
     {
     "start_date": {
-        "year": "1976",
-        "month": "1"
+        "year": "1976"
     },
     "text": {
         "headline": "Adolescente",
@@ -573,8 +555,7 @@
     },
     {
     "start_date": {
-        "year": "1974",
-        "month": "1"
+        "year": "1974"
     },
     "text": {
         "headline": "Blanco y negro",
@@ -589,8 +570,7 @@
     },
     {
     "start_date": {
-        "year": "1962",
-        "month": "1"
+        "year": "1962"
     },
     "text": {
         "headline": "Primogénito",
@@ -605,8 +585,7 @@
     },
     {
     "start_date": {
-        "year": "1989",
-        "month": "1"
+        "year": "1989"
     },
     "text": {
         "headline": "Qué biblia",
@@ -621,8 +600,7 @@
     },
     {
     "start_date": {
-        "year": "1994",
-        "month": "1"
+        "year": "1994"
     },
     "text": {
         "headline": "Primer round",
@@ -637,8 +615,7 @@
     },
     {
     "start_date": {
-        "year": "1988",
-        "month": "1"
+        "year": "1988"
     },
     "text": {
         "headline": "Renault 12",
@@ -653,8 +630,7 @@
     },
     {
     "start_date": {
-        "year": "1993",
-        "month": "1"
+        "year": "1993"
     },
     "text": {
         "headline": "El laburo",
@@ -669,8 +645,7 @@
     },
     {
     "start_date": {
-        "year": "1989",
-        "month": "1"
+        "year": "1989"
     },
     "text": {
         "headline": "La primera nieta",
@@ -685,8 +660,7 @@
     },
     {
     "start_date": {
-        "year": "1993",
-        "month": "1"
+        "year": "1993"
     },
     "text": {
         "headline": "Los brujitos",
@@ -701,8 +675,7 @@
     },
     {
     "start_date": {
-        "year": "1993",
-        "month": "1"
+        "year": "1993"
     },
     "text": {
         "headline": "Las nietas y la radio",
@@ -717,8 +690,7 @@
     },
     {
     "start_date": {
-        "year": "1994",
-        "month": "1"
+        "year": "1994"
     },
     "text": {
         "headline": "La herencia",
@@ -733,8 +705,7 @@
     },
     {
     "start_date": {
-        "year": "1993",
-        "month": "1"
+        "year": "1993"
     },
     "text": {
         "headline": "Micky Mouse, un campesino y Simón",
