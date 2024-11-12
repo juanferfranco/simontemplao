@@ -23,7 +23,6 @@
             "url": "assets/images/F1.jpg",
             "caption": "La infancia - 1945"
         },
-        "group": "La infancia",
         "display_date": "_"
     },
     {
@@ -38,7 +37,6 @@
         "url": "assets/images/F2.jpg",
         "caption": "La infancia - 1938"
     },
-    "group": "La infancia",
     "display_date": "Anorí, Antioquia"
     },
     {
@@ -53,7 +51,6 @@
         "url": "assets/images/F3.jpg",
         "caption": "La infancia - 1945"
     },
-    "group": "La infancia",
     "display_date": "La finca de Anorí"
     },
     {
@@ -68,7 +65,6 @@
         "url": "assets/images/F4.jpg",
         "caption": "Los años mozos - 1953"
     },
-    "group": "Los años mozos",
     "display_date": "Medellín"
     },
     {
@@ -83,7 +79,6 @@
         "url": "assets/images/F5.jpg",
         "caption": "Los años mozos - 1954"
     },
-    "group": "Los años mozos",
     "display_date": "Medellín"
     },
     {
@@ -101,7 +96,6 @@
         "url": "assets/images/F6.jpg",
         "caption": "Los años mozos - 1950-1953"
     },
-    "group": "Los años mozos",
     "display_date": "Corea"
     },
     {
@@ -116,7 +110,6 @@
         "url": "assets/images/F7.jpg",
         "caption": "Los años mozos - 1953"
     },
-    "group": "Los años mozos",
     "display_date": "Junín, Medellín"
     },
     {
@@ -131,7 +124,6 @@
         "url": "assets/images/F8.jpg",
         "caption": "Los años mozos - 1950"
     },
-    "group": "Los años mozos",
     "display_date": "_"
     },
     {
@@ -148,7 +140,6 @@
         "url": "assets/images/F9.jpg",
         "caption": "La boda - 1961"
     },
-    "group": "La boda",
     "display_date": "Medellín"
     },
     {
@@ -165,7 +156,6 @@
         "url": "assets/images/F10.jpg",
         "caption": "La boda - 1961"
     },
-    "group": "La boda",
     "display_date": "Medellín"
     },
     {
@@ -182,7 +172,6 @@
         "url": "assets/images/F11.jpg",
         "caption": "La boda - 1961"
     },
-    "group": "La boda",
     "display_date": "Medellín"
     },
     {
@@ -199,7 +188,6 @@
         "url": "assets/images/F12.jpg",
         "caption": "La boda - 1961"
     },
-    "group": "La boda",
     "display_date": "Medellín"
     },
     {
@@ -216,7 +204,6 @@
         "url": "assets/images/F13.jpg",
         "caption": "La boda - 1962"
     },
-    "group": "La boda",
     "display_date": "Plaza de Toros La Macarena. Medellín"
     },
     {
@@ -231,7 +218,6 @@
         "url": "assets/images/F14.jpg",
         "caption": "La boda - 1962"
     },
-    "group": "La boda",
     "display_date": "_"
     },
     {
@@ -246,7 +232,6 @@
         "url": "assets/images/F15.jpg",
         "caption": "La boda - 1961"
     },
-    "group": "La boda",
     "display_date": "Rionegro, Antioquia"
     },
     {
@@ -261,7 +246,6 @@
         "url": "assets/images/F16.jpg",
         "caption": "La boda - 1961"
     },
-    "group": "La boda",
     "display_date": "Corregimiento de San Félix, Bello"
     },
     {
@@ -276,7 +260,6 @@
         "url": "assets/images/F17.jpg",
         "caption": "La boda - 1961"
     },
-    "group": "La boda",
     "display_date": "Rionegro, Antioquia"
     },
     {
@@ -291,7 +274,6 @@
         "url": "assets/images/F18.jpg",
         "caption": "La boda - 1961"
     },
-    "group": "La boda",
     "display_date": "Casa de Aranjuez, Medellín"
     },
     {
@@ -306,7 +288,6 @@
         "url": "assets/images/F19.jpg",
         "caption": "La boda - 1961"
     },
-    "group": "La boda",
     "display_date": "Rionegro, Antioquia"
     },
     {
@@ -324,7 +305,6 @@
         "url": "assets/images/F20.jpg",
         "caption": "La boda - 1961"
     },
-    "group": "La boda",
     "display_date": "Medellín"
     },
     {
@@ -339,7 +319,6 @@
         "url": "assets/images/F21.jpg",
         "caption": "La crianza y la casa - 1970"
     },
-    "group": "La crianza y la casa",
     "display_date": "Barrio 20 de Julio"
     },
     {
@@ -354,7 +333,6 @@
         "url": "assets/images/F22.jpg",
         "caption": "La crianza y la casa - 1966 (?)"
     },
-    "group": "La crianza y la casa",
     "display_date": "Mangas de Everfit, donde hoy (2024) queda el Centro Comercial Florida"
     },
     {
@@ -369,7 +347,6 @@
         "url": "assets/images/F23.jpg",
         "caption": "La crianza y la casa - 1963"
     },
-    "group": "La crianza y la casa",
     "display_date": "Plaza de Cisneros"
     },
     {
@@ -384,7 +361,6 @@
         "url": "assets/images/F24.jpg",
         "caption": "La crianza y la casa - 1971"
     },
-    "group": "La crianza y la casa",
     "display_date": "Casa del barrio 20 de Julio ya con algunos muros de concreto"
     },
     {
@@ -402,7 +378,6 @@
         "url": "assets/images/F25.jpg",
         "caption": "La crianza y la casa - 1967"
     },
-    "group": "La crianza y la casa",
     "display_date": "Casa del barrio Loreto"
     },
     {
@@ -417,7 +392,6 @@
         "url": "assets/images/F26.jpg",
         "caption": "La crianza y la casa - 1965"
     },
-    "group": "La crianza y la casa",
     "display_date": "Barrio Caribe, Medellín, cerca a lo que hoy (2024) es el Tránsito"
     },
     {
@@ -432,7 +406,6 @@
         "url": "assets/images/F27.jpg",
         "caption": "La crianza y la casa - 1963"
     },
-    "group": "La crianza y la casa",
     "display_date": "_"
     },
     {
@@ -447,7 +420,6 @@
         "url": "assets/images/F28.jpg",
         "caption": "La crianza y la casa - 1963"
     },
-    "group": "La crianza y la casa",
     "display_date": "Mangas de Everfit, Medellín"
     },
     {
@@ -462,7 +434,6 @@
         "url": "assets/images/F29.jpg",
         "caption": "La crianza y la casa - 1963"
     },
-    "group": "La crianza y la casa",
     "display_date": "Pasaje Junín, Medellín"
     },
     {
@@ -477,7 +448,6 @@
         "url": "assets/images/F30.jpg",
         "caption": "La crianza y la casa - 1974"
     },
-    "group": "La crianza y la casa",
     "display_date": "Finca de Blanca Flórez"
     },
     {
@@ -492,7 +462,6 @@
         "url": "assets/images/F31.jpg",
         "caption": "La crianza y la casa - 1973"
     },
-    "group": "La crianza y la casa",
     "display_date": "Barrio 20 de Julio, en el solar de la casa de Etelvina (mamá de Josefina)"
     },
     {
@@ -507,7 +476,6 @@
         "url": "assets/images/F32.jpg",
         "caption": "La crianza y la casa - 1971 (?)"
     },
-    "group": "La crianza y la casa",
     "display_date": "Barrio 20 de Julio"
     },
     {
@@ -522,7 +490,6 @@
         "url": "assets/images/F33.jpg",
         "caption": "La crianza y la casa - 1964"
     },
-    "group": "La crianza y la casa",
     "display_date": "Cisneros, Antioquia"
     },
     {
@@ -538,7 +505,6 @@
         "url": "assets/images/F34.jpg",
         "caption": "La crianza y la casa - 1966"
     },
-    "group": "La crianza y la casa",
     "display_date": "_"
     },
     {
@@ -553,7 +519,6 @@
         "url": "assets/images/F35.jpg",
         "caption": "La crianza y la casa - 1976"
     },
-    "group": "La crianza y la casa",
     "display_date": "Finca de Blanca Flórez"
     },
     {
@@ -568,7 +533,6 @@
         "url": "assets/images/F36.jpg",
         "caption": "La crianza y la casa - 1974"
     },
-    "group": "La crianza y la casa",
     "display_date": "Finca de Blanca Flórez"
     },
     {
@@ -583,7 +547,6 @@
         "url": "assets/images/F37.jpg",
         "caption": "La crianza y la casa - 1962"
     },
-    "group": "La crianza y la casa",
     "display_date": "Casa de Aranjuez"
     },
     {
@@ -598,7 +561,6 @@
         "url": "assets/images/F38.jpg",
         "caption": "Los nietos y la enfermedad - 1989"
     },
-    "group": "Los nietos y la enfermedad",
     "display_date": "_"
     },
     {
@@ -613,7 +575,6 @@
         "url": "assets/images/F39.jpg",
         "caption": "Los nietos y la enfermedad - 1994"
     },
-    "group": "Los nietos y la enfermedad",
     "display_date": "Barrio 20 de Julio"
     },
     {
@@ -628,7 +589,6 @@
         "url": "assets/images/F40.jpg",
         "caption": "Los nietos y la enfermedad - 1988"
     },
-    "group": "Los nietos y la enfermedad",
     "display_date": "camino a Cocorná"
     },
     {
@@ -643,7 +603,6 @@
         "url": "assets/images/F41.jpg",
         "caption": "Los nietos y la enfermedad - 1993"
     },
-    "group": "Los nietos y la enfermedad",
     "display_date": "Centro de Medellín"
     },
     {
@@ -658,7 +617,6 @@
         "url": "assets/images/F42.jpg",
         "caption": "Los nietos y la enfermedad - 1989(?)"
     },
-    "group": "Los nietos y la enfermedad",
     "display_date": "Barrio 20 de Julio"
     },
     {
@@ -673,7 +631,6 @@
         "url": "assets/images/F43.jpg",
         "caption": "Los nietos y la enfermedad - 1993"
     },
-    "group": "Los nietos y la enfermedad",
     "display_date": "Casa del 20 de Julio"
     },
     {
@@ -688,7 +645,6 @@
         "url": "assets/images/F44.jpg",
         "caption": "Los nietos y la enfermedad - 1993"
     },
-    "group": "Los nietos y la enfermedad",
     "display_date": "Segundo piso de la casa del 20 de Julio, en la primera pieza"
     },
     {
@@ -703,23 +659,21 @@
         "url": "assets/images/F45.jpg",
         "caption": "Los nietos y la enfermedad - 1994"
     },
-    "group": "Los nietos y la enfermedad",
     "display_date": "Casa del 20 de Julio"
     },
     {
-    "start_date": {
-        "year": "1993"
-    },
-    "text": {
-        "headline": "Micky Mouse, un campesino y Simón",
-        "text": "Simón Antonio, vestido de gris y con una franja ROJA en su camiseta, comparte con sus nietos Simón David y Mateo, hijos de Álvaro, la celebración del Día de los Brujitos."
-    },
-    "media": {
-        "url": "assets/images/F46.jpg",
-        "caption": "Los nietos y la enfermedad - 1993"
-    },
-    "group": "Los nietos y la enfermedad",
-    "display_date": "Casa del 20 de julio"
+        "start_date": {
+            "year": "1993"
+        },
+        "text": {
+            "headline": "Micky Mouse, un campesino y Simón",
+            "text": "Simón Antonio, vestido de gris y con una franja ROJA en su camiseta, comparte con sus nietos Simón David y Mateo, hijos de Álvaro, la celebración del Día de los Brujitos."
+        },
+        "media": {
+            "url": "assets/images/F46.jpg",
+            "caption": "Los nietos y la enfermedad - 1993"
+        },
+        "display_date": "Casa del 20 de julio"
     }
     ]
 }

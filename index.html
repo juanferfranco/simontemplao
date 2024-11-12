@@ -14,35 +14,25 @@
         padding: 0;
         margin: 0;
       }
-      .timeline-caption {
-        position: relative;
-        padding: 10px;
-        background-color: rgba(0, 0, 0, 0.6);
-        color: #fff;
-        width: 100%;
-        box-sizing: border-box;
-        text-align: center;
-        font-size: 1em;
-      }
-      .timeline-embed img {
-        max-width: 100%;
-        max-height: 80vh;
-        height: auto;
-        display: block;
-        margin: 0 auto;
-      }
+
       @media (max-width: 600px) {
-        .timeline-caption {
-          font-size: 0.9em;
-          padding: 8px;
+          #timeline-embed {
+          display: flex;
+          flex-direction: column;
+          height: 100vh; 
         }
-        .tl-timemarker .tl-label {
-          font-size: 12px;
+
+        #timeline-embed .tl-storyslider {
+          flex: 0.6; 
+          overflow-y: auto; 
         }
-        .tl-timemarker .tl-date {
-          font-size: 10px;
+
+        #timeline-embed .tl-timenav {
+          flex: 0.4; 
+          overflow-y: hidden;
         }
       }
+
     </style>
   </head>
   <body>
@@ -54,7 +44,8 @@
       window.addEventListener('load', function() {
         let embed = document.getElementById('timeline-embed');
         window.timeline = new TL.Timeline('timeline-embed', 'timeline.json', {
-          hash_bookmark: false
+          hash_bookmark: false,
+          scale_factor: 5,
         });
 
         setTimeout(function() {
